@@ -5,7 +5,11 @@ Graphic viewer at shows the observability of objects. Based on Astroplan and Ast
 
 # Pre-requisite
 pip install PySimpleGUI
+
 pip install numpy
+
 pip install matplotlib
+
 pip install astroplan
+
 pip install astropy
